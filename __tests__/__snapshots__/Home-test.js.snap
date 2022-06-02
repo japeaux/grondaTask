@@ -1,0 +1,550 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "marginTop": 20,
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "testUri": "../../../assets/gronda_web_logo_medium_caribbean.png",
+        }
+      }
+      style={
+        Object {
+          "height": 80.03999999999999,
+          "resizeMode": "contain",
+          "width": 375,
+        }
+      }
+    />
+  </View>
+  <RCTScrollView>
+    <View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+          }
+        }
+      >
+        <Image
+          source={
+            Object {
+              "testUri": "../../../assets/marco_mueller_banner.jpg",
+            }
+          }
+          style={
+            Object {
+              "borderRadius": 10,
+              "height": 266.8,
+              "marginTop": 10,
+              "resizeMode": "contain",
+              "width": 675,
+            }
+          }
+        />
+      </View>
+      <Text
+        style={
+          Object {
+            "fontSize": 20,
+            "fontWeight": "bold",
+            "marginLeft": 20,
+            "marginTop": 20,
+          }
+        }
+      >
+        Creation for you
+      </Text>
+      <RCTScrollView
+        contentContainerStyle={
+          Object {
+            "flexDirection": "row",
+            "flexWrap": "wrap",
+          }
+        }
+      >
+        <View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "width": "50%",
+              }
+            }
+          >
+            <View
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "margin": 20,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://d2bn8tb344j6vy.cloudfront.net/JwOEa4hmYk/stories/vf.JPEG",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 10,
+                      "height": 300,
+                      "resizeMode": "contain",
+                      "width": 300,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Object {
+                      "fontSize": 15,
+                      "fontWeight": "bold",
+                      "marginTop": 10,
+                      "padding": 0,
+                      "textAlign": "left",
+                    }
+                  }
+                >
+                  The Limit is The Sky 
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "width": "50%",
+              }
+            }
+          >
+            <View
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "margin": 20,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://d2bn8tb344j6vy.cloudfront.net/JwOEa4hmYk/stories/vf.JPEG",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 10,
+                      "height": 300,
+                      "resizeMode": "contain",
+                      "width": 300,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Object {
+                      "fontSize": 15,
+                      "fontWeight": "bold",
+                      "marginTop": 10,
+                      "padding": 0,
+                      "textAlign": "left",
+                    }
+                  }
+                >
+                  Avocado Cream
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "width": "50%",
+              }
+            }
+          >
+            <View
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "margin": 20,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://d2bn8tb344j6vy.cloudfront.net/JwOEa4hmYk/stories/vf.JPEG",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 10,
+                      "height": 300,
+                      "resizeMode": "contain",
+                      "width": 300,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Object {
+                      "fontSize": 15,
+                      "fontWeight": "bold",
+                      "marginTop": 10,
+                      "padding": 0,
+                      "textAlign": "left",
+                    }
+                  }
+                >
+                  Sandwich
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "width": "50%",
+              }
+            }
+          >
+            <View
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "margin": 20,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://d2bn8tb344j6vy.cloudfront.net/JwOEa4hmYk/stories/q2b.JPEG",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 10,
+                      "height": 300,
+                      "resizeMode": "contain",
+                      "width": 300,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Object {
+                      "fontSize": 15,
+                      "fontWeight": "bold",
+                      "marginTop": 10,
+                      "padding": 0,
+                      "textAlign": "left",
+                    }
+                  }
+                >
+                  
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "width": "50%",
+              }
+            }
+          >
+            <View
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "margin": 20,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://d2bn8tb344j6vy.cloudfront.net/W6eu9RP1pc/stories/thumbnail_ik.png",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 10,
+                      "height": 300,
+                      "resizeMode": "contain",
+                      "width": 300,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Object {
+                      "fontSize": 15,
+                      "fontWeight": "bold",
+                      "marginTop": 10,
+                      "padding": 0,
+                      "textAlign": "left",
+                    }
+                  }
+                >
+                  Panificando
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "width": "50%",
+              }
+            }
+          >
+            <View
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "margin": 20,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://d2bn8tb344j6vy.cloudfront.net/An4jAVSUOQ/stories/qz.JPEG",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 10,
+                      "height": 300,
+                      "resizeMode": "contain",
+                      "width": 300,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Object {
+                      "fontSize": 15,
+                      "fontWeight": "bold",
+                      "marginTop": 10,
+                      "padding": 0,
+                      "textAlign": "left",
+                    }
+                  }
+                >
+                  
+                </Text>
+              </View>
+            </View>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "width": "50%",
+              }
+            }
+          >
+            <View
+              accessible={true}
+              collapsable={false}
+              focusable={true}
+              onClick={[Function]}
+              onResponderGrant={[Function]}
+              onResponderMove={[Function]}
+              onResponderRelease={[Function]}
+              onResponderTerminate={[Function]}
+              onResponderTerminationRequest={[Function]}
+              onStartShouldSetResponder={[Function]}
+              style={
+                Object {
+                  "opacity": 1,
+                }
+              }
+            >
+              <View
+                style={
+                  Object {
+                    "alignSelf": "center",
+                    "flex": 1,
+                    "justifyContent": "center",
+                    "margin": 20,
+                  }
+                }
+              >
+                <Image
+                  source={
+                    Object {
+                      "uri": "https://d2bn8tb344j6vy.cloudfront.net/4BHK6UC1U1/stories/8l.JPEG",
+                    }
+                  }
+                  style={
+                    Object {
+                      "borderRadius": 10,
+                      "height": 300,
+                      "resizeMode": "contain",
+                      "width": 300,
+                    }
+                  }
+                />
+                <Text
+                  style={
+                    Object {
+                      "fontSize": 15,
+                      "fontWeight": "bold",
+                      "marginTop": 10,
+                      "padding": 0,
+                      "textAlign": "left",
+                    }
+                  }
+                >
+                  Desayuno
+                </Text>
+              </View>
+            </View>
+          </View>
+        </View>
+      </RCTScrollView>
+    </View>
+  </RCTScrollView>
+</RCTSafeAreaView>
+`;
